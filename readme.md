@@ -8,8 +8,8 @@
 1. Clone the git repository and cd into it
 
 ```
-git clone
-cd
+git clone https://github.com/Ankitcode99/Identity-Reconcilation.git
+cd Identity-Reconcilation
 ```
 
 2. Install all the dependencies
@@ -45,3 +45,5 @@ Use postman or any other api test tool to make a /POST request to the server wit
 "email": "test@example.com"
 "phoneNumber": "123456"
 ```
+
+Live Server URL: https://identity-reconcilation-bitespeed.onrender.com

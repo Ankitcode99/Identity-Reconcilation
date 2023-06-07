@@ -19,7 +19,7 @@ async function createTableIfNotExist(){
         deletedAt         TIMESTAMPTZ
       );`)
 
-      console.log("Created TABLE CONTACT", result.rows);
+      console.log("Created table CONTACT in-case not existed");
 }
 
 createTableIfNotExist()
